@@ -8,7 +8,7 @@
  
 <div style="display: flex; flex-direction: row;" valign="top">
   <a href="https://github.com/invocador"> <img src="https://skillicons.dev/icons?i=github"/> </a>
-  <a href="https://codepen.com/theinvocador"> <img src="https://skillicons.dev/icons?i=codepen"/> </a>
+  <a href="https://codepen.io/theinvocador"> <img src="https://skillicons.dev/icons?i=codepen"/> </a>
   <a href="https://discord.com/"> <img src="https://skillicons.dev/icons?i=discord"/> </a>
   <a href="https://linkedin.com/"> <img src="https://skillicons.dev/icons?i=linkedin"/> </a>
   <a href="https://twitter.com/"> <img src="https://skillicons.dev/icons?i=twitter"/> </a>  
