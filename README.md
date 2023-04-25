@@ -1,30 +1,55 @@
-<!--
-**rocha-caio/rocha-caio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rocha-caio&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rocha-caio&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rocha-caio&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
--->
-
-## Hi, I'm Caio Rocha! 🔭
+### Greetings, I'm [Caio Rocha](https://github.com/invocador) 
+<hr></hr>
+<p><img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/code-2475063-2056083.png?f=avif&w=512" alt=" " height="10" width="15"><em> Computer Science Student at <a href="ufal.br/">Universidade Federal de Alagoas</a></em></p>
 
 
-### ☁️ About Me
+#### Reach me at: 
 
-- I'm a Computer Science Student at Universidade Federal de Alagoas - UFAL
+<div style="display: flex; flex-direction: row;" valign="top">
+  
+[<img src="https://cdn.iconscout.com/icon/free/png-512/free-discord-2752210-2285027.png" height="44" width="50" />](https://discord.com)&ensp;
+[<img src="https://cdn.iconscout.com/icon/free/png-512/free-reddit-2752088-2284905.png?f=avif&w=512" height="44" width="50" />](https://reddit.com)&ensp;
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="44" width="52"/>](https://www.linkedin.com/in/caio-rocha-51572424b/) [<img   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="44" width="52" />](https://twitter.com/)
+[<img src="https://icons.iconarchive.com/icons/dtafalonso/android-lollipop/256/Gmail-icon.png" height="50" width="50" />](https://gmail.com) 
+</div>
 
-### 🦉 Tech Stacks:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+#### Little more about myself:
+
+```javascript
+const caio = {
+  pronouns: "he" || "him",
+  code: ["C", "HTML", "CSS", "JavaScript", "TypeScript"],
+  tools: ["Node", "React", "Angular", "Jest", "Figma", "Canva"],
+  hobbies: {
+    workOut(weight) {
+      let combatPower = weight > 9000 ? "OMG It's Over 9000!" : "Pff, Weak as Krillin";
+    },
+    play(game) {
+      let rankEmblem = game.genre === 'fps' ? "Radiant Emblem" : "Wood Emblem";
+    },
+    read(book) {
+      // literally any book
+  }
+}
+```
+
+#### 
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="54" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="54" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="54" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="54" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="54" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="54" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" width="54" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" width="54" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="54" />
+  <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/insomnia-icon.png" height="40" width="50" alt="Insomnia" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="54" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" width="54" />
+</div>
+
+<div align="center">
+<img src="https://media.giphy.com/media/tELArYrjvRPb6Q7yeG/giphy.gif" width="350" alt="invoker">
+</div>
