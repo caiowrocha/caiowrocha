@@ -37,7 +37,7 @@ const caio = {
 #### 
 
 <p align="center" style="display: flex; flex-direction: row;" valign="top">
-  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,ts,react,angular,jest,nodejs,figma" />
+  <img src="https://skillicons.dev/icons?i=c,html,css,js,ts,react,angular,jest,nodejs,figma" />
 </p>
 
 
