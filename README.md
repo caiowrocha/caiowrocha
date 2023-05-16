@@ -1,4 +1,4 @@
-### Greetings, I'm [Caio Rocha](https://github.com/invocador)  <img src="https://github.com/Invocador/Invocador/blob/main/assets/waving.svg" alt="" height="28" width="28">
+### Greetings, I'm [Caio Rocha](https://github.com/invocador) 👋🏻
 
 <hr></hr>
 <p><em>Computer Science Student at <a href="ufal.br/">Universidade Federal de Alagoas</a></em></p>
