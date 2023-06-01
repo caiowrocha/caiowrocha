@@ -10,7 +10,7 @@
   <a href="https://github.com/invocador"> <img src="https://skillicons.dev/icons?i=github"/> </a>
   <a href="https://codepen.io/theinvocador"> <img src="https://skillicons.dev/icons?i=codepen"/> </a>
   <a href="https://discord.com/users/241724420215930880"> <img src="https://skillicons.dev/icons?i=discord"/> </a>
-  <a href="https://linkedin.com/"> <img src="https://skillicons.dev/icons?i=linkedin"/> </a>
+  <a href="https://linkedin.com/in/caio-rocha-51572424b/"> <img src="https://skillicons.dev/icons?i=linkedin"/> </a>
 <!--   <a href="https://twitter.com/"> <img src="https://skillicons.dev/icons?i=twitter"/> </a>   -->
 </div>
 
