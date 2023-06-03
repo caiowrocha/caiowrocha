@@ -25,9 +25,6 @@ const caio = {
     workOut(weight) {
       let combatPower = weight > 9000 ? "OMG It's Over 9000!" : "Pff, Weak as Krillin";
     },
-    play(game) {
-      let rankEmblem = game.genre === 'fps' ? "Radiant Emblem" : "Wood Emblem";
-    },
     read(book) {
       // literally any book
   }
