@@ -20,7 +20,7 @@
 const caio = {
   pronouns: "he" || "him",
   code: ["C", "HTML", "CSS", "JavaScript", "TypeScript"],
-  tools: ["Node", "React", "Jest", "Figma"],
+  tools: ["Node", "React", "Angular", "Jest", "Figma"],
   hobbies: {
     workOut(weight) {
       let combatPower = weight > 9000 ? "OMG It's Over 9000!" : "Pff, Weak as Krillin";
@@ -35,8 +35,7 @@ const caio = {
 #### 
 
 <p align="center" style="display: flex; flex-direction: row;" valign="top"> 
-  <img src="https://skillicons.dev/icons?i=c,html,css,js,ts,react,nodejs,jest,figma" /> 
-<!-- angular -->
+  <img src="https://skillicons.dev/icons?i=c,html,css,js,ts,react,angular,nodejs,jest,figma" /> 
   <br>
   <br>
  <img src="https://www.codewars.com/users/invocador/badges/small">
