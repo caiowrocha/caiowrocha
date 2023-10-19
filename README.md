@@ -30,15 +30,13 @@ const caio = {
   }
 }
 ```
-<!-- ![Codewars](https://github.r2v.ch/codewars?user=invocador&stroke=black)
- -->
 #### 
 
 <p align="center" style="display: flex; flex-direction: row;" valign="top"> 
   <img src="https://skillicons.dev/icons?i=c,html,css,js,ts,react,angular,nodejs,jest,figma" /> 
   <br>
   <br>
- <img src="https://www.codewars.com/users/invocador/badges/small">
+ <img src="https://www.codewars.com/users/caiowrocha/badges/small"/>
 </p>
                 
 
