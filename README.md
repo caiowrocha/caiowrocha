@@ -5,14 +5,13 @@
 
 
 #### Reach me at: 
- 
-<div style="display: flex; flex-direction: row;" valign="top">
-  <a href="https://github.com/caiowrocha"> <img src="https://skillicons.dev/icons?i=github"/> </a>
-  <a href="https://codepen.io/caiuscript"> <img src="https://skillicons.dev/icons?i=codepen"/> </a>
-  <a href="https://discord.com/users/241724420215930880"> <img src="https://skillicons.dev/icons?i=discord"/> </a>
-  <a href="https://linkedin.com/in/rocha-caio/"> <img src="https://skillicons.dev/icons?i=linkedin"/> </a>
+  [![github](https://skillicons.dev/icons?i=github)](https://github.com/caiowrocha)
+  [![codepen](https://skillicons.dev/icons?i=codepen)](https://codepen.io/caiuscript)
+  [![discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/241724420215930880)
+  [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rocha-caio)
+  
+
 <!--   <a href="https://twitter.com/"> <img src="https://skillicons.dev/icons?i=twitter"/> </a>   -->
-</div>
 
 #### Little more about myself:
 
