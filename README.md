@@ -30,14 +30,14 @@ const caio = {
 ```
 #### 
 
+<div align="center">
+  <img src="https://media.giphy.com/media/tELArYrjvRPb6Q7yeG/giphy.gif" width="350" alt="invoker">
+</div>
+<br>
 <p align="center" style="display: flex; flex-direction: row;" valign="top"> 
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,nextjs,angular,jest,cypress,nodejs,nestjs,docker,aws,figma" /> 
   <br>
   <br>
  <img src="https://www.codewars.com/users/caiowrocha/badges/small"/>
 </p>
-                
-
-<div align="center">
-<img src="https://media.giphy.com/media/tELArYrjvRPb6Q7yeG/giphy.gif" width="350" alt="invoker">
-</div>
+            
