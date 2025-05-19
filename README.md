@@ -35,7 +35,7 @@ const caio = {
 </div>
 <br>
 <p align="center" style="display: flex; flex-direction: row;" valign="top"> 
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,nextjs,angular,jest,cypress,nodejs,nestjs,docker,aws,figma" /> 
+  <img src="https://skillicons.dev/icons?i=js,ts,tailwind,react,nextjs,angular,rxjs,jest,cypress,nodejs,nestjs,docker,aws,figma" /> 
   <br>
   <br>
  <img src="https://www.codewars.com/users/caiowrocha/badges/small"/>
